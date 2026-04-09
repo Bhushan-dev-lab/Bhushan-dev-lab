@@ -13,6 +13,18 @@
 - 📊 Learning Agile, Scrum, and Delivery Management
 - 🎯 Goal: Lead high-impact tech projects with business alignment
 - 💡 Passionate about process improvement & team leadership
+
+
+## 🛠️ Technical Skills
+- .NET Core / ASP.NET / C#
+- SQL Server / REST APIs
+- System Design & Architecture
+
+## 📊 Project Management Skills (In Progress 🚧)
+- Agile & Scrum
+- Sprint Planning & Execution
+- Stakeholder Communication
+
 <!--
 **Bhushan-dev-lab/Bhushan-dev-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
